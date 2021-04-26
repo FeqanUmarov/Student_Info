@@ -378,7 +378,7 @@ telefon nomresini elave etmek isteyirsinizse => telefon --kimi qeyd edin!""")
 ############ Show Information in list ######################################
 
 
-adas=telebe_melumatlari()
+telebe=telebe_melumatlari()
 
             
             
